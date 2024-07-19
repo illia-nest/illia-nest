@@ -1,6 +1,6 @@
 <h3>Hi, I’m Illia 👋</h3> 
 
-I am Illia Nesterenko a dedicated Data Scientist with a robust background in developing data pipelines, Python scripting, and Machine Learning, currently pursuing a Master's Degree in Artificial Intelligence at Lviv Polytechnic National University. 
+I am Illia Nesterenko, a dedicated Data Scientist with a robust background in developing data pipelines, Python scripting, and Machine Learning, currently pursuing a Master's Degree in Artificial Intelligence at Lviv Polytechnic National University. 
 
 <h3>📫 Reach me out!</h3> 
 
